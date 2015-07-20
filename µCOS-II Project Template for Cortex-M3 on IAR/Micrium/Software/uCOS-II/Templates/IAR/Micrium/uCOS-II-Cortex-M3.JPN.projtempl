@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<template>
+  <description>空のmain.cファイルを含むデフォルトツール設定のCプロジェクト。</description>
+  <displayname>main</displayname>
+
+  <files>
+    <file>$PROJ_DIR$\main.c</file>
+  </files>
+
+</template>
+
+

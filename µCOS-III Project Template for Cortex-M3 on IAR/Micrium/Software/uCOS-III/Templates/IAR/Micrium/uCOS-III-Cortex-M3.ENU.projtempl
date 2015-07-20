@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<template>
+  <description>uC/OS-III Project for Cortex-M3-Based Devices</description>
+  <displayname>uC/OS-III Cortex-M3</displayname>
+
+  <files>
+   <file>$PROJ_DIR$\app.c</file>
+  </files>
+
+</template>
+
+
